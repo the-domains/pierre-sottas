@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=9ULOTxcJsyw'
+inLanguage: null
+starred: false
+keywords: []
+description: "A funky tune !! Après deux ans d'absence, PAPAPITUFO est de retour !!! Composé de Pierre Sottas, Dominic Frey et Jean-Georges Linsig, PAPAPITUFO improvise sa musique autour de thèmes écrits par ses membres ! Si vous aimez le groove, l'impro jazz et le son électrique du blues et du rock, n'hésitez plus et venez nous écouter !!"
+datePublished: '2016-03-15T19:46:10.046Z'
+dateModified: '2016-03-15T19:46:07.386Z'
 author:
   - name: PAPAPITUTRIO
     url: 'https://www.youtube.com/user/PAPAPITUTRIO'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "A funky tune !! Après deux ans d'absence, PAPAPITUFO est de retour !!! Composé de Pierre Sottas, Dominic Frey et Jean-Georges Linsig, PAPAPITUFO improvise sa musique autour de thèmes écrits par ses membres ! Si vous aimez le groove, l'impro jazz et le son électrique du blues et du rock, n'hésitez plus et venez nous écouter !!"
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=9ULOTxcJsyw'
 title: Papapitufo-Khalyphornia
-datePublished: '2016-03-15T19:45:03.383Z'
-dateModified: '2016-03-15T19:41:23.019Z'
 sourcePath: _posts/2016-03-15-papapitufo-khalyphornia.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
