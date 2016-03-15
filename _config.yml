@@ -1,7 +1,7 @@
 name: Pierre Sottas
 favicon: null
 layout_spectrum: 0.49805609532631934
-typography_spectrum: 0.1457768592517823
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.04612170928157866
+    - '#8f91c7'
+    - '#010310'
+    - '#464a83'
+    - '#2a2a52'
+    - '#b2b1df'
+  brandStrength: 0.75
   lightness: 0.7401955537497997
-  saturation: 0.07295010122470558
+  saturation: 0.5
   rhythmicContrast: 0.6359048187732697
 purpose: []
