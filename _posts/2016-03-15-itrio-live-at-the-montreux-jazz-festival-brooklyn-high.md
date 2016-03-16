@@ -1,14 +1,10 @@
 ---
-author:
-  - name: i.Trio
-    url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=KEbOY74UKbU'
+inLanguage: en
+starred: false
 keywords:
   - montreux
   - jazz
@@ -20,8 +16,14 @@ keywords:
   - rozo
   - live
   - eufostian
-description: 'i.Trio live at the Montreux Jazz Festival Jan Trösch : guitar Pierre Sottas : bass Urs Wittwer : drums'
-inLanguage: en
+description: i.Trio live at the Montreux Jazz Festival
+datePublished: '2016-03-16T04:57:17.144Z'
+dateModified: '2016-03-16T04:57:04.406Z'
+author:
+  - name: i.Trio
+    url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=KEbOY74UKbU&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=KEbOY74UKbU'
-title: iTrio live at the Montreux Jazz Festival - Brooklyn High
-datePublished: '2016-03-15T19:44:38.849Z'
-dateModified: '2016-03-15T19:38:04.794Z'
+title: iTrio at the Montreux Jazz Festival - Brooklyn High
 sourcePath: _posts/2016-03-15-itrio-live-at-the-montreux-jazz-festival-brooklyn-high.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
