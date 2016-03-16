@@ -17,8 +17,8 @@ keywords:
   - constantine
   - symmetry
 description: ''
-datePublished: '2016-03-16T20:08:04.563Z'
-dateModified: '2016-03-16T20:07:49.763Z'
+datePublished: '2016-03-16T20:11:58.389Z'
+dateModified: '2016-03-16T20:11:20.480Z'
 author:
   - name: Steve Huber
     url: 'https://www.youtube.com/channel/UC0LRn_1eDT3XfhKcJ7xT0QQ'
