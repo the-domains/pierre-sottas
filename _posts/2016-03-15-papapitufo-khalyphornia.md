@@ -6,9 +6,9 @@ isBasedOnUrl: 'https://www.youtube.com/watch?v=9ULOTxcJsyw'
 inLanguage: null
 starred: false
 keywords: []
-description: "A funky tune !! Après deux ans d'absence, PAPAPITUFO est de retour !!! Composé de Pierre Sottas, Dominic Frey et Jean-Georges Linsig, PAPAPITUFO improvise sa musique autour de thèmes écrits par ses membres ! Si vous aimez le groove, l'impro jazz et le son électrique du blues et du rock, n'hésitez plus et venez nous écouter !!"
-datePublished: '2016-03-15T19:46:10.046Z'
-dateModified: '2016-03-15T19:46:07.386Z'
+description: 'Papapitufo, live in Bern'
+datePublished: '2016-03-16T04:53:43.025Z'
+dateModified: '2016-03-16T04:53:39.455Z'
 author:
   - name: PAPAPITUTRIO
     url: 'https://www.youtube.com/user/PAPAPITUTRIO'
