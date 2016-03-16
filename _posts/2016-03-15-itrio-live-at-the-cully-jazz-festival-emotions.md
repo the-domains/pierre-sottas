@@ -16,9 +16,9 @@ keywords:
   - jazz
   - drum
   - live
-description: i.Trio live at the Cully Jazz Festival
-datePublished: '2016-03-16T20:08:04.883Z'
-dateModified: '2016-03-16T20:01:45.591Z'
+description: Live at the Cully Jazz Festival. www.itrio.ch
+datePublished: '2016-03-16T20:14:32.962Z'
+dateModified: '2016-03-16T20:14:30.039Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
@@ -61,7 +61,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: iTrio at the Cully Jazz Festival - Emotions
+title: iTrio - Emotions
 sourcePath: _posts/2016-03-15-itrio-live-at-the-cully-jazz-festival-emotions.md
 published: true
 authors: []
