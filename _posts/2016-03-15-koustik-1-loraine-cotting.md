@@ -1,26 +1,29 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=CLFq5bOcqrk'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-03-16T04:56:31.884Z'
+dateModified: '2016-03-16T04:56:29.789Z'
 author:
   - name: akoustikpodcast
     url: 'https://www.youtube.com/user/akoustikpodcast'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: "C'était encore le matin quand nous sommes arrivés chez Loraine, et la phrase salvatrice à des heures pareilles c'est : \" qui veut un café ? \". Tout en installant notre matériel dans son salon, la demoiselle et ses musiciens nous offraient déjà les prémices d'un petit-déjeûner qui réveille, et en musique s'il vous plaît."
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=CLFq5bOcqrk'
 title: '@KoustiK-1-Loraine-Cotting'
-datePublished: '2016-03-15T19:44:09.148Z'
-dateModified: '2016-03-15T19:39:11.435Z'
 sourcePath: _posts/2016-03-15-koustik-1-loraine-cotting.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
