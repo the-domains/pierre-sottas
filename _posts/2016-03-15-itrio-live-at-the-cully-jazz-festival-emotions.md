@@ -1,14 +1,10 @@
 ---
-author:
-  - name: i.Trio
-    url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=WRe54mqu8AY'
+inLanguage: en
+starred: false
 keywords:
   - wittwer
   - urs
@@ -20,8 +16,14 @@ keywords:
   - jazz
   - drum
   - live
-description: 'i.Trio live at the Cully Jazz Festival Jan Trösch : guitar Pierre Sottas : bass Urs Wittwer : drums'
-inLanguage: en
+description: i.Trio live at the Cully Jazz Festival
+datePublished: '2016-03-16T04:57:57.521Z'
+dateModified: '2016-03-16T04:57:41.944Z'
+author:
+  - name: i.Trio
+    url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=WRe54mqu8AY&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=WRe54mqu8AY'
-title: iTrio live at the Cully Jazz Festival - Emotions
-datePublished: '2016-03-15T19:45:31.475Z'
-dateModified: '2016-03-15T19:37:53.038Z'
+title: iTrio at the Cully Jazz Festival - Emotions
 sourcePath: _posts/2016-03-15-itrio-live-at-the-cully-jazz-festival-emotions.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
