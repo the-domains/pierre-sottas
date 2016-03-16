@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Steve Huber
-    url: 'https://www.youtube.com/channel/UC0LRn_1eDT3XfhKcJ7xT0QQ'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=oXCbYUCKPGk'
+inLanguage: en
+starred: false
 keywords:
   - duration
   - album
@@ -20,8 +16,14 @@ keywords:
   - timegrid
   - constantine
   - symmetry
-description: Time Grid.
-inLanguage: en
+description: ''
+datePublished: '2016-03-16T04:54:58.185Z'
+dateModified: '2016-03-16T04:54:56.140Z'
+author:
+  - name: Steve Huber
+    url: 'https://www.youtube.com/channel/UC0LRn_1eDT3XfhKcJ7xT0QQ'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=oXCbYUCKPGk&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=oXCbYUCKPGk'
-title: Time Grid Life (Full Album ) Progressive Metal
-datePublished: '2016-03-15T19:44:22.183Z'
-dateModified: '2016-03-15T19:40:34.142Z'
+title: Time Grid - Life (Full Album )
 sourcePath: _posts/2016-03-15-time-grid-life-full-album-progressive-metal.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
