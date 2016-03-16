@@ -17,8 +17,8 @@ keywords:
   - drum
   - live
 description: i.Trio live at the Cully Jazz Festival
-datePublished: '2016-03-16T04:57:57.521Z'
-dateModified: '2016-03-16T04:57:41.944Z'
+datePublished: '2016-03-16T04:58:33.472Z'
+dateModified: '2016-03-16T04:58:30.427Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
