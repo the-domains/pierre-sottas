@@ -16,9 +16,9 @@ keywords:
   - rozo
   - live
   - eufostian
-description: i.Trio live at the Montreux Jazz Festival
-datePublished: '2016-03-16T20:08:04.760Z'
-dateModified: '2016-03-16T20:01:44.759Z'
+description: Live at the Montreux Jazz Festival. www.itrio.ch
+datePublished: '2016-03-16T20:13:44.441Z'
+dateModified: '2016-03-16T20:13:42.147Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
@@ -61,7 +61,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: iTrio at the Montreux Jazz Festival - Brooklyn High
+title: iTrio - Brooklyn High
 sourcePath: _posts/2016-03-15-itrio-live-at-the-montreux-jazz-festival-brooklyn-high.md
 published: true
 authors: []
