@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Livio Piovano
-    url: 'https://www.youtube.com/user/Guallera'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=uZgiKmARKfs'
+inLanguage: en
+starred: false
 keywords:
   - loraine
   - cotting
@@ -20,8 +16,14 @@ keywords:
   - wmv
   - srf
   - tis
-description: Loraine Cotting live at Chorus Lausanne 17 Feb 2012
-inLanguage: en
+description: 'Loraine Cotting  - live at Chorus, Lausanne, 17 Feb 2012'
+datePublished: '2016-03-16T04:55:49.946Z'
+dateModified: '2016-03-16T04:55:47.619Z'
+author:
+  - name: Livio Piovano
+    url: 'https://www.youtube.com/user/Guallera'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=uZgiKmARKfs&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=uZgiKmARKfs'
 title: Loraine Cotting
-datePublished: '2016-03-15T19:45:16.425Z'
-dateModified: '2016-03-15T19:39:29.643Z'
 sourcePath: _posts/2016-03-15-loraine-cotting.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
