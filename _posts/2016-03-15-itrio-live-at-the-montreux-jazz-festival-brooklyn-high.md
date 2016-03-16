@@ -17,8 +17,8 @@ keywords:
   - live
   - eufostian
 description: i.Trio live at the Montreux Jazz Festival
-datePublished: '2016-03-16T04:57:17.144Z'
-dateModified: '2016-03-16T04:57:04.406Z'
+datePublished: '2016-03-16T20:00:22.156Z'
+dateModified: '2016-03-16T20:00:19.755Z'
 author:
   - name: i.Trio
     url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
