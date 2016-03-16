@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Espresso From Hell
-    url: 'https://www.youtube.com/channel/UCtRY9Y12JqWcyLOYtzeUGTA'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=TD6kA3i6wQw'
+inLanguage: en
+starred: false
 keywords:
   - rigby
   - eleanor
@@ -20,8 +16,14 @@ keywords:
   - azlivevideo
   - riti
   - occulti
-description: 'Eleanor Rigby words and music by John Lennon and Paul McCartney arranged by Espresso From Hell Everything has been played live, no pre-recorded loops You can find our album either on Bandcamp : http://espressofromhell.bandcamp.com or on iTunes https://itunes.apple.com/ch/album/espresso-from-hell/id958847620?l=en Or anywhere else (google play, deeper, spotify, etc.) www.espressofromhell.com'
-inLanguage: en
+description: Eleanor Rigby by Espresso From Hell
+datePublished: '2016-03-16T04:59:26.879Z'
+dateModified: '2016-03-16T04:59:15.864Z'
+author:
+  - name: Espresso From Hell
+    url: 'https://www.youtube.com/channel/UCtRY9Y12JqWcyLOYtzeUGTA'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=TD6kA3i6wQw&feature=applinks'
     type: ios
@@ -59,15 +61,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=TD6kA3i6wQw'
 title: Eleanor Rigby
-datePublished: '2016-03-15T19:44:52.685Z'
-dateModified: '2016-03-15T19:36:59.010Z'
 sourcePath: _posts/2016-03-15-eleanor-rigby.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
