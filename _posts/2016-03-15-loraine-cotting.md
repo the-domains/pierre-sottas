@@ -16,9 +16,9 @@ keywords:
   - wmv
   - srf
   - tis
-description: 'Loraine Cotting  - live at Chorus, Lausanne, 17 Feb 2012'
-datePublished: '2016-03-17T08:15:49.805Z'
-dateModified: '2016-03-17T08:15:10.825Z'
+description: 'Live at Chorus, Lausanne, 17 Feb 2012'
+datePublished: '2016-03-17T08:16:00.697Z'
+dateModified: '2016-03-17T08:15:57.199Z'
 author:
   - name: Livio Piovano
     url: 'https://www.youtube.com/user/Guallera'
@@ -61,7 +61,7 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Loraine Cotting
+title: Loraine Cotting - Mama
 sourcePath: _posts/2016-03-15-loraine-cotting.md
 published: true
 authors: []
