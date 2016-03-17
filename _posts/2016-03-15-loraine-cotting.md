@@ -17,8 +17,8 @@ keywords:
   - srf
   - tis
 description: 'Loraine Cotting  - live at Chorus, Lausanne, 17 Feb 2012'
-datePublished: '2016-03-16T20:08:04.673Z'
-dateModified: '2016-03-16T20:01:45.348Z'
+datePublished: '2016-03-17T08:15:49.805Z'
+dateModified: '2016-03-17T08:15:10.825Z'
 author:
   - name: Livio Piovano
     url: 'https://www.youtube.com/user/Guallera'
