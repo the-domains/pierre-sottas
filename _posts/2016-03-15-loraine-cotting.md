@@ -17,8 +17,8 @@ keywords:
   - srf
   - tis
 description: 'Live at Chorus, Lausanne, 17 Feb 2012'
-datePublished: '2016-03-17T08:16:00.697Z'
-dateModified: '2016-03-17T08:15:57.199Z'
+datePublished: '2016-03-28T20:41:12.919Z'
+dateModified: '2016-03-28T20:41:11.973Z'
 author:
   - name: Livio Piovano
     url: 'https://www.youtube.com/user/Guallera'
