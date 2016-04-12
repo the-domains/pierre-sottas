@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-12T18:26:44.783Z'
-dateModified: '2016-04-12T18:25:43.320Z'
+description: 'Here are some tracks from my past and present projects ranging from jazz to r&b going through progressive metal.'
+datePublished: '2016-04-12T18:31:50.235Z'
+dateModified: '2016-04-12T18:27:23.291Z'
 author:
   - name: Pierre Sottas
     url: 'http://soundcloud.com/pichto'
@@ -51,14 +51,14 @@ app_links:
     namespace: google
     type: ios
 title: Musical extracts
+sourcePath: _posts/2016-04-12-musical-extracts.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-04-12-musical-extracts.md
-published: true
 url: musical-extracts/index.html
 _type: AudioObject
 _context: 'http://schema.org'
