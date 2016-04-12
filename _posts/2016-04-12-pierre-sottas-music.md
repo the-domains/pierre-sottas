@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: 'https://soundcloud.com/pichto/sets/pierre-sottas-presentation'
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-04-12T15:04:19.009Z'
-dateModified: '2016-04-12T15:04:11.844Z'
+datePublished: '2016-04-12T15:10:49.842Z'
+dateModified: '2016-04-12T15:10:29.665Z'
 author:
   - name: Pierre Sottas
     url: 'http://soundcloud.com/pichto'
@@ -51,15 +50,16 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: "Pierre Sottas' music"
+title: Music
+sourcePath: _posts/2016-04-12-pierre-sottas-music.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-04-12-pierre-sottas-music.md
-published: true
+url: music/index.html
 _type: AudioObject
 _context: 'http://schema.org'
 
