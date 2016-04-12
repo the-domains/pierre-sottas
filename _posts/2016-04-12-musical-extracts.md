@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Here are some tracks from my past and present projects ranging from jazz to r&b going through progressive metal.'
-datePublished: '2016-04-12T18:31:50.235Z'
-dateModified: '2016-04-12T18:27:23.291Z'
+datePublished: '2016-04-12T19:08:49.469Z'
+dateModified: '2016-04-12T19:08:32.549Z'
 author:
   - name: Pierre Sottas
     url: 'http://soundcloud.com/pichto'
