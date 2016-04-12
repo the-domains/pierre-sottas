@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Here are some tracks from my past and present projects ranging from jazz to r&b going through progressive metal.'
-datePublished: '2016-04-12T19:41:06.787Z'
-dateModified: '2016-04-12T19:40:59.798Z'
+datePublished: '2016-04-12T19:42:52.858Z'
+dateModified: '2016-04-12T19:42:48.020Z'
 author:
   - name: Pierre Sottas
     url: 'http://soundcloud.com/pichto'
@@ -52,14 +52,14 @@ app_links:
     namespace: google
     type: ios
 title: Music from Soundcloud
+sourcePath: _posts/2016-04-12-music-from-soundcloud.md
+published: true
 authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-sourcePath: _posts/2016-04-12-music-from-soundcloud.md
-published: true
 _type: AudioObject
 _context: 'http://schema.org'
 
