@@ -1,29 +1,18 @@
-name: 'Pierre Sottas - bass, acoustic bass, arranger, producer'
-favicon: null
-layout_spectrum: 0.38526
-typography_spectrum: 0.58554
-title: 'Pierre Sottas - bass, acoustic bass, arranger, producer'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#030200'
-    - '#ffffff'
+    - '#FFFFFF'
     - '#685944'
-    - '#bcaea1'
+    - '#BCAEA1'
     - '#412309'
-  brandStrength: 0.75
-  lightness: 0.25
-  saturation: 0.3125
-  rhythmicContrast: 0.5
+  brandStrength: 1
+  lightness: 0.751126
+  rhythmicContrast: 0.295045
+  saturation: 0.733108
+cta: {}
+layout_spectrum: 0.203828
+name: 'Pierre Sottas - bass, acoustic bass, arranger, producer'
+opengraph: {}
 purpose: []
+typography_spectrum: 0.453828
