@@ -7,9 +7,9 @@ color:
     - '#BCAEA1'
     - '#412309'
   brandStrength: 1
-  lightness: 0.751126
-  rhythmicContrast: 0.295045
-  saturation: 0.733108
+  lightness: 1
+  rhythmicContrast: 0
+  saturation: 0.492117
 cta: {}
 layout_spectrum: 0.203828
 name: 'Pierre Sottas - bass, acoustic bass, arranger, producer'
