@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=TD6kA3i6wQw'
 inLanguage: en
-starred: false
 keywords:
   - rigby
   - eleanor
@@ -16,9 +15,9 @@ keywords:
   - azlivevideo
   - riti
   - occulti
-description: Eleanor Rigby by Espresso From Hell
-datePublished: '2016-03-16T20:08:04.912Z'
-dateModified: '2016-03-16T20:04:53.321Z'
+description: 'Words and music by John Lennon and Paul McCartney. Arranged by Espresso From Hell. Everything has been played live, no pre-recorded loops. www.espressofromhell.com'
+datePublished: '2016-05-15T21:03:32.740Z'
+dateModified: '2016-05-15T21:03:28.914Z'
 author:
   - name: Espresso From Hell
     url: 'https://www.youtube.com/channel/UCtRY9Y12JqWcyLOYtzeUGTA'
@@ -63,13 +62,13 @@ app_links:
     type: ios
 title: Eleanor Rigby
 sourcePath: _posts/2016-03-15-eleanor-rigby.md
-published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
