@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/pichto'
 inLanguage: null
 keywords: []
 description: 'Here are some tracks from my past and present projects ranging from jazz to r&b going through progressive metal.'
-datePublished: '2016-05-15T20:46:45.189Z'
-dateModified: '2016-05-15T20:46:43.962Z'
+datePublished: '2016-05-15T21:07:49.049Z'
+dateModified: '2016-05-15T21:07:46.135Z'
 author:
   - name: Pierre Sottas
     url: 'http://soundcloud.com/pichto'
@@ -58,7 +58,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-starred: true
+starred: false
 _type: AudioObject
 _context: 'http://schema.org'
 
