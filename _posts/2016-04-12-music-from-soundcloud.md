@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/pichto'
 inLanguage: null
 keywords: []
 description: 'Here are some tracks from my past and present projects ranging from jazz to r&b going through progressive metal.'
-datePublished: '2016-05-15T20:33:16.018Z'
-dateModified: '2016-05-15T20:33:10.754Z'
+datePublished: '2016-05-15T20:43:29.506Z'
+dateModified: '2016-05-15T20:43:17.038Z'
 author:
   - name: Pierre Sottas
     url: 'http://soundcloud.com/pichto'
@@ -65,6 +65,6 @@ _context: 'http://schema.org'
 ---
 # Music from Soundcloud
 
-Here are some tracks from my past and present projects ranging from jazz to r&b going through progressive metal.
-
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fusers%252F5919915%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fpichto&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Favatars-000217416164-2af8yy-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
+
+Here are some tracks from my past and present projects ranging from jazz to r&b going through progressive metal.
