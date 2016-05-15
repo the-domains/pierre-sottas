@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=WRe54mqu8AY'
 inLanguage: en
-starred: false
 keywords:
   - wittwer
   - urs
@@ -17,11 +16,11 @@ keywords:
   - drum
   - live
 description: Live at the Cully Jazz Festival. www.itrio.ch
-datePublished: '2016-03-16T20:14:32.962Z'
-dateModified: '2016-03-16T20:14:30.039Z'
+datePublished: '2016-05-15T21:03:21.835Z'
+dateModified: '2016-05-15T21:03:15.828Z'
 author:
-  - name: i.Trio
-    url: 'https://www.youtube.com/channel/UC6oOOT1yF5g71JJhHIPpoLg'
+  - name: ''
+    url: ''
     avatar: {}
 related: []
 app_links:
@@ -61,15 +60,15 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: iTrio - Emotions
+title: iTrio live at the Cully Jazz Festival - Emotions
 sourcePath: _posts/2016-03-15-itrio-live-at-the-cully-jazz-festival-emotions.md
-published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+starred: true
 _type: VideoObject
 _context: 'http://schema.org'
 
