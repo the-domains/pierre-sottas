@@ -1,20 +1,18 @@
 ---
+datePublished: '2016-06-23T09:39:36.007Z'
+sourcePath: _posts/2016-04-12-music-from-soundcloud.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'https://soundcloud.com/pichto'
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
-description: >-
-  Here are some tracks from my past and present projects ranging from jazz to
-  r&b going through progressive metal.
-datePublished: '2016-06-23T09:39:01.627Z'
-dateModified: '2016-06-23T09:39:01.230Z'
+related: []
 author:
   - name: ''
     url: ''
     avatar: {}
-related: []
+dateModified: '2016-06-23T09:39:31.389Z'
+title: Music from Soundcloud
 app_links:
   - type: ios
     namespace: ai
@@ -52,17 +50,19 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-title: Music from Soundcloud
-sourcePath: _posts/2016-04-12-music-from-soundcloud.md
-authors: []
 publisher:
   name: SoundCloud
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+description: >-
+  Here are some tracks from my past and present projects ranging from jazz to
+  r&b going through progressive metal.
+inLanguage: null
+inNav: false
 starred: true
-_type: AudioObject
 _context: 'http://schema.org'
+_type: AudioObject
 
 ---
 # Music from Soundcloud
