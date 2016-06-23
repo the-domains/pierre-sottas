@@ -5,9 +5,11 @@ inNav: false
 isBasedOnUrl: 'https://soundcloud.com/pichto'
 inLanguage: null
 keywords: []
-description: 'Here are some tracks from my past and present projects ranging from jazz to r&b going through progressive metal.'
-datePublished: '2016-06-02T06:53:07.816Z'
-dateModified: '2016-06-02T06:52:54.778Z'
+description: >-
+  Here are some tracks from my past and present projects ranging from jazz to
+  r&b going through progressive metal.
+datePublished: '2016-06-23T09:38:52.692Z'
+dateModified: '2016-06-23T09:38:52.152Z'
 author:
   - name: ''
     url: ''
@@ -58,7 +60,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-starred: true
+starred: false
 _type: AudioObject
 _context: 'http://schema.org'
 
