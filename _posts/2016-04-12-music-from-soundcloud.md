@@ -8,8 +8,8 @@ keywords: []
 description: >-
   Here are some tracks from my past and present projects ranging from jazz to
   r&b going through progressive metal.
-datePublished: '2016-06-23T09:38:52.692Z'
-dateModified: '2016-06-23T09:38:52.152Z'
+datePublished: '2016-06-23T09:39:01.627Z'
+dateModified: '2016-06-23T09:39:01.230Z'
 author:
   - name: ''
     url: ''
@@ -60,7 +60,7 @@ publisher:
   domain: soundcloud.com
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-starred: false
+starred: true
 _type: AudioObject
 _context: 'http://schema.org'
 
