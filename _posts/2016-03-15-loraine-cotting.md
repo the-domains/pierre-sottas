@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-30T09:07:28.831Z'
+datePublished: '2016-06-30T09:09:50.549Z'
 sourcePath: _posts/2016-03-15-loraine-cotting.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=uZgiKmARKfs'
@@ -18,11 +18,11 @@ keywords:
   - tis
 related: []
 author:
-  - name: ''
+  - name: Loraine Cotting
     url: ''
     avatar: {}
-dateModified: '2016-06-30T08:59:23.818Z'
-title: Loraine Cotting
+dateModified: '2016-06-30T09:09:47.506Z'
+title: Mama
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=uZgiKmARKfs&feature=applinks'
     type: ios
@@ -65,7 +65,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-description: 'Live at Chorus, Lausanne, 17 Feb 2012'
+description: 'Loraine Cotting, Live at Chorus, Lausanne, 17 Feb 2012'
 inLanguage: en
 inNav: false
 starred: false
