@@ -1,9 +1,10 @@
 ---
+datePublished: '2016-06-30T08:58:27.373Z'
+sourcePath: _posts/2016-03-15-time-grid-life-full-album-progressive-metal.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: 'https://www.youtube.com/watch?v=oXCbYUCKPGk'
-inLanguage: en
+authors: []
+hasPage: false
 keywords:
   - duration
   - album
@@ -15,14 +16,13 @@ keywords:
   - timegrid
   - constantine
   - symmetry
-description: 'Time Grid - Life (Full Album). http://timegrid.bandcamp.com'
-datePublished: '2016-06-30T05:15:56.417Z'
-dateModified: '2016-06-30T05:08:05.871Z'
+related: []
 author:
   - name: ''
     url: ''
     avatar: {}
-related: []
+dateModified: '2016-06-30T08:58:20.049Z'
+title: Time Grid Life (Full Album ) Progressive Metal
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=oXCbYUCKPGk&feature=applinks'
     type: ios
@@ -60,17 +60,17 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-title: Time Grid Life (Full Album ) Progressive Metal
-sourcePath: _posts/2016-03-15-time-grid-life-full-album-progressive-metal.md
-authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+description: 'Time Grid - Life (Full Album). http://timegrid.bandcamp.com'
+inLanguage: en
+inNav: false
 starred: false
-_type: VideoObject
 _context: 'http://schema.org'
+_type: VideoObject
 
 ---
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FoXCbYUCKPGk%3Ffeature%3Doembed&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DoXCbYUCKPGk&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FoXCbYUCKPGk%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="480" scrolling="no" frameborder="0" allowfullscreen="allowfullscreen" style=""></iframe>
