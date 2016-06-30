@@ -4,7 +4,7 @@
         <description><![CDATA[Pierre Sottas - bass, acoustic bass, arranger, producer]]></description>
         <link>https://thegrid.ai/pierre-sottas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 08:59:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 09:02:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierre-sottas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Music from Soundcloud]]></title>
@@ -12,6 +12,13 @@
             <link>https://soundcloud.com/pichto</link>
             <guid isPermaLink="false">53319dd4-7969-4b26-a84d-1aa854b5b35f</guid>
             <pubDate>Thu, 23 Jun 2016 09:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Khalyphornia]]></title>
+            <description><![CDATA[<article><h1>Khalyphornia</h1><p>Papapitufo live in Bern</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01c4873b2f95cefd270e62cb0b3a4d6623ef39c2.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=9ULOTxcJsyw</link>
+            <guid isPermaLink="false">4bdd6a54-4bc8-470c-9498-2dc24cc05962</guid>
+            <pubDate>Thu, 30 Jun 2016 09:02:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Time Grid Life (Full Album ) Progressive Metal]]></title>
@@ -61,13 +68,6 @@
             <link>https://www.youtube.com/watch?v=CLFq5bOcqrk</link>
             <guid isPermaLink="false">b0b3acfc-23d5-4ae0-bb04-a6d89403fe76</guid>
             <pubDate>Thu, 30 Jun 2016 05:15:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Papapitufo-Khalyphornia]]></title>
-            <description><![CDATA[<article><h1>Papapitufo-Khalyphornia</h1><p>Papapitufo live in Bern</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01c4873b2f95cefd270e62cb0b3a4d6623ef39c2.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=9ULOTxcJsyw</link>
-            <guid isPermaLink="false">4bdd6a54-4bc8-470c-9498-2dc24cc05962</guid>
-            <pubDate>Thu, 30 Jun 2016 05:14:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
