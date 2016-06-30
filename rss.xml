@@ -4,7 +4,7 @@
         <description><![CDATA[Pierre Sottas - bass, acoustic bass, arranger, producer]]></description>
         <link>https://thegrid.ai/pierre-sottas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 30 Jun 2016 09:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2016 09:31:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pierre-sottas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Music from Soundcloud]]></title>
@@ -12,6 +12,27 @@
             <link>https://soundcloud.com/pichto</link>
             <guid isPermaLink="false">53319dd4-7969-4b26-a84d-1aa854b5b35f</guid>
             <pubDate>Thu, 23 Jun 2016 09:39:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Afro Blue]]></title>
+            <description><![CDATA[<article><h1>Afro Blue</h1><p>Music by Mongo Santamaria, words by Oscar Brown Jr. Arranged by Espresso From Hell. Everything has been played live, no pre-recorded loops. www.espressofromhell.com </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e0853177fe71d9f300ec953f93c4b1aa66c6996.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=okhyqqYWWMQ</link>
+            <guid isPermaLink="false">b5fdbb88-40d0-402a-907d-9e04bff2b15f</guid>
+            <pubDate>Thu, 30 Jun 2016 05:21:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Eleanor Rigby]]></title>
+            <description><![CDATA[<article><h1>Eleanor Rigby</h1><p>Words and music by John Lennon and Paul McCartney. Arranged by Espresso From Hell. Everything has been played live, no pre-recorded loops. www.espressofromhell.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b6aa7cf9e6d652a47e751b5e7be6bc0366e68861.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=TD6kA3i6wQw</link>
+            <guid isPermaLink="false">c8f874cc-2b93-42b7-b79c-55652ca4ef5d</guid>
+            <pubDate>Thu, 30 Jun 2016 05:21:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Emotions]]></title>
+            <description><![CDATA[<article><h1>Emotions</h1><p>Live at the Cully Jazz Festival. www.itrio.ch</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8fbde92261300d5d5f0d0ad3a8513349b83399e8.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=WRe54mqu8AY</link>
+            <guid isPermaLink="false">35868bf1-5bfa-48b1-bda3-cda2e289bdd9</guid>
+            <pubDate>Thu, 30 Jun 2016 05:18:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
