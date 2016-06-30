@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-30T05:15:05.267Z'
+datePublished: '2016-06-30T09:07:28.831Z'
 sourcePath: _posts/2016-03-15-loraine-cotting.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=uZgiKmARKfs'
@@ -21,7 +21,7 @@ author:
   - name: ''
     url: ''
     avatar: {}
-dateModified: '2016-06-30T05:08:07.908Z'
+dateModified: '2016-06-30T08:59:23.818Z'
 title: Loraine Cotting
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=uZgiKmARKfs&feature=applinks'
