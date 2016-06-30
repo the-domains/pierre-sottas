@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-30T09:02:26.485Z'
+datePublished: '2016-06-30T09:11:13.439Z'
 sourcePath: _posts/2016-03-15-papapitufo-khalyphornia.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=9ULOTxcJsyw'
@@ -9,9 +9,9 @@ keywords: []
 related: []
 author:
   - name: Papapitufo
-    url: ''
+    url: 'https://www.youtube.com/watch?v=9ULOTxcJsyw&list=UURHsp3GrQsFuGG4tYQx7Pvw'
     avatar: {}
-dateModified: '2016-06-30T09:02:22.383Z'
+dateModified: '2016-06-30T09:11:05.328Z'
 title: Khalyphornia
 app_links: []
 publisher:
