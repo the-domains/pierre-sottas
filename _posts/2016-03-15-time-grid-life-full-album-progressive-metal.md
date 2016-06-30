@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-30T09:07:02.074Z'
+datePublished: '2016-06-30T09:16:52.801Z'
 sourcePath: _posts/2016-03-15-time-grid-life-full-album-progressive-metal.md
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=oXCbYUCKPGk'
@@ -18,11 +18,11 @@ keywords:
   - symmetry
 related: []
 author:
-  - name: ''
+  - name: Time Grid
     url: ''
     avatar: {}
-dateModified: '2016-06-30T09:07:01.930Z'
-title: Time Grid Life (Full Album ) Progressive Metal
+dateModified: '2016-06-30T09:16:52.442Z'
+title: Life
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=oXCbYUCKPGk&feature=applinks'
     type: ios
@@ -65,7 +65,7 @@ publisher:
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-description: 'Time Grid - Life (Full Album). http://timegrid.bandcamp.com'
+description: Time Grid - Life (Full Album). Progressive Metal
 inLanguage: en
 inNav: false
 starred: false
