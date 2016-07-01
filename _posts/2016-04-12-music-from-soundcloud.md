@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-01T10:12:36.390Z'
+datePublished: '2016-07-01T10:15:22.044Z'
 sourcePath: _posts/2016-04-12-music-from-soundcloud.md
 inFeed: true
 isBasedOnUrl: 'https://soundcloud.com/pichto'
@@ -11,7 +11,7 @@ author:
   - name: ''
     url: ''
     avatar: {}
-dateModified: '2016-07-01T10:12:35.776Z'
+dateModified: '2016-07-01T10:15:21.454Z'
 title: Music from Soundcloud
 app_links:
   - type: ios
@@ -60,7 +60,7 @@ description: >-
   r&b going through progressive metal.
 inLanguage: null
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: AudioObject
 
