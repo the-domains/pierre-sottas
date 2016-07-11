@@ -7,8 +7,8 @@ keywords: []
 description: >-
   Here are some tunes arranged for other artists. I arranged in most of my
   projects but for those i was especially hired for this.
-datePublished: '2016-07-11T12:49:04.022Z'
-dateModified: '2016-07-11T12:48:59.479Z'
+datePublished: '2016-07-11T13:10:57.824Z'
+dateModified: '2016-07-11T12:49:12.005Z'
 related: []
 author:
   - name: Pierre Sottas
