@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-07-11T12:21:03.610Z'
+datePublished: '2016-07-11T12:21:32.995Z'
+sourcePath: _posts/2016-07-11-musical-extracts.md
 isBasedOnUrl: 'https://soundcloud.com/pichto/sets/pierre-sottas-presentation'
 keywords: []
 related: []
@@ -7,7 +8,7 @@ author:
   - name: Pierre Sottas
     url: 'http://soundcloud.com/pichto'
     avatar: {}
-dateModified: '2016-07-11T12:21:02.945Z'
+dateModified: '2016-07-11T12:21:26.474Z'
 title: Musical extracts
 app_links:
   - type: ios
@@ -54,7 +55,6 @@ publisher:
 description: >-
   Here are some tracks from my past and present projects ranging from jazz to
   r&b going through progressive metal.
-sourcePath: _posts/2016-07-11-musical-extracts.md
 starred: true
 inFeed: true
 hasPage: false
