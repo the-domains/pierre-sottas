@@ -1,13 +1,19 @@
 ---
-datePublished: '2016-07-11T12:48:01.574Z'
-isBasedOnUrl: 'https://soundcloud.com/pichto/sets/arranging'
+inFeed: false
+hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
+description: >-
+  Here are some tunes arranged for other artists. I arranged in most of my
+  projects but for those i was especially hired for this.
+datePublished: '2016-07-11T12:49:04.022Z'
+dateModified: '2016-07-11T12:48:59.479Z'
 related: []
 author:
   - name: Pierre Sottas
     url: 'http://soundcloud.com/pichto'
     avatar: {}
-dateModified: '2016-07-11T12:46:46.396Z'
 title: Arranging
 app_links:
   - type: ios
@@ -46,19 +52,15 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-description: >-
-  Here are some tunes arranged for other artists. I arranged in most of my
-  projects but for those i was especially hired for this.
-starred: false
 sourcePath: _posts/2016-07-11-arranging.md
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: SoundCloud
+  domain: soundcloud.com
+  url: 'http://soundcloud.com'
+  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+starred: false
+url: arranging/index.html
 _context: 'http://schema.org'
 _type: AudioObject
 
