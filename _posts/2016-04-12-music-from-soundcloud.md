@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-01T10:15:22.044Z'
+datePublished: '2016-07-11T12:02:09.794Z'
 sourcePath: _posts/2016-04-12-music-from-soundcloud.md
 inFeed: true
 isBasedOnUrl: 'https://soundcloud.com/pichto'
@@ -11,7 +11,7 @@ author:
   - name: ''
     url: ''
     avatar: {}
-dateModified: '2016-07-01T10:15:21.454Z'
+dateModified: '2016-07-11T12:02:06.081Z'
 title: Music from Soundcloud
 app_links:
   - type: ios
