@@ -32,6 +32,9 @@ navigation:
   - name: Projects
     id: 8bcf99d2-c978-4012-aca8-0112cf846f60
     type: content
+  - name: Arranging
+    id: 046607f1-d02d-4819-bbd7-4af92e8cdf15
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ca13d0d-623f-49ac-b938-94efed1aa0ae.jpg
 title: 'Bass, acoustic bass, arranger, producer'
