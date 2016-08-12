@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-11T13:13:29.156Z'
+datePublished: '2016-08-12T20:22:32.173Z'
 sourcePath: _posts/2016-07-11-arranging.md
 inFeed: false
 authors: []
@@ -10,7 +10,7 @@ author:
   - name: Pierre Sottas
     url: 'http://soundcloud.com/pichto'
     avatar: {}
-dateModified: '2016-07-11T13:13:24.612Z'
+dateModified: '2016-08-12T20:22:31.648Z'
 title: Arranging
 app_links:
   - type: ios
@@ -49,16 +49,13 @@ app_links:
     package: '336353151'
     namespace: google
     type: ios
-publisher:
-  name: SoundCloud
-  domain: soundcloud.com
-  url: 'http://soundcloud.com'
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
+publisher: {}
 description: >-
   Here are some tunes arranged for other artists. I arranged in most of my
   projects but for those i was especially hired for this.
 inLanguage: null
 inNav: true
+via: {}
 starred: false
 url: arranging/index.html
 _context: 'http://schema.org'
