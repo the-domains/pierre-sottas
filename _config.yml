@@ -1,8 +1,19 @@
+layout_spectrum: 0.5834053186699748
+typography_spectrum: 0.049294239142909646
+color:
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.39989672554656863
+  lightness: 0.01659549679607153
+  saturation: 0.16107737109996378
+  rhythmicContrast: 0.12872153567150235
 name: Pierre Sottas - Bass // Acoustic Bass // Arranger // Producer
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ca13d0d-623f-49ac-b938-94efed1aa0ae.jpg
-layout_spectrum: 0.36711767595261335
-typography_spectrum: 0.19065380352549255
 author:
   name: ''
   email: ''
@@ -31,15 +42,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  brandStrength: 0.39989672554656863
-  lightness: 0.01659549679607153
-  saturation: 0.16107737109996378
-  rhythmicContrast: 0.12872153567150235
 purpose: []
