@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-26T07:26:41.375Z'
+datePublished: '2016-08-26T07:26:43.310Z'
 sourcePath: _posts/2016-07-11-arranging.md
 inFeed: false
 authors: []
@@ -11,7 +11,7 @@ author:
     url: 'http://soundcloud.com/pichto'
     avatar: {}
 via: {}
-dateModified: '2016-08-26T07:26:38.052Z'
+dateModified: '2016-08-26T07:26:42.799Z'
 title: Arranging
 app_links:
   - type: ios
