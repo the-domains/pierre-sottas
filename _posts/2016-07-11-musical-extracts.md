@@ -1,8 +1,8 @@
 ---
 id: a154b4e4-a81a-4603-9ac7-7ff189c361be
-dateModified: '2016-08-26T12:43:18.413Z'
+dateModified: '2016-08-26T12:43:19.107Z'
 title: Musical extracts
-datePublished: '2016-08-26T12:43:18.979Z'
+datePublished: '2016-08-26T12:43:19.501Z'
 author:
   - name: Pierre Sottas
     url: 'http://soundcloud.com/pichto'
@@ -17,7 +17,7 @@ publisher:
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
   domain: soundcloud.com
 via: {}
-starred: false
+starred: true
 sourcePath: _posts/2016-07-11-musical-extracts.md
 inFeed: true
 hasPage: false
