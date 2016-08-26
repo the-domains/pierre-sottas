@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-12T20:22:32.173Z'
+datePublished: '2016-08-26T07:26:41.375Z'
 sourcePath: _posts/2016-07-11-arranging.md
 inFeed: false
 authors: []
@@ -10,7 +10,8 @@ author:
   - name: Pierre Sottas
     url: 'http://soundcloud.com/pichto'
     avatar: {}
-dateModified: '2016-08-12T20:22:31.648Z'
+via: {}
+dateModified: '2016-08-26T07:26:38.052Z'
 title: Arranging
 app_links:
   - type: ios
@@ -55,7 +56,6 @@ description: >-
   projects but for those i was especially hired for this.
 inLanguage: null
 inNav: true
-via: {}
 starred: false
 url: arranging/index.html
 _context: 'http://schema.org'
