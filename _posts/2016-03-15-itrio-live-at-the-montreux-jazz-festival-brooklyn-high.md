@@ -1,18 +1,18 @@
 ---
-id: 00c1b948-c7d6-446e-afa7-5e8ce3f6ff2b
-dateModified: '2016-08-29T09:25:14.011Z'
-title: Brooklyn High
-datePublished: '2016-08-29T09:25:22.745Z'
+datePublished: '2016-08-29T18:06:05.189Z'
+sourcePath: _posts/2016-03-15-itrio-live-at-the-montreux-jazz-festival-brooklyn-high.md
+isBasedOnUrl: 'https://www.youtube.com/watch?v=KEbOY74UKbU'
 author:
   - name: iTrio
     url: 'http://www.itrio.ch'
     avatar: {}
-isBasedOnUrl: 'https://www.youtube.com/watch?v=KEbOY74UKbU'
-description: iTrio Live at the Montreux Jazz Festival. www.itrio.ch
-publisher: {}
 via: {}
+dateModified: '2016-08-29T18:06:04.721Z'
+title: Brooklyn High
+id: 00c1b948-c7d6-446e-afa7-5e8ce3f6ff2b
+publisher: {}
+description: iTrio Live at the Montreux Jazz Festival. www.itrio.ch
 starred: false
-sourcePath: _posts/2016-03-15-itrio-live-at-the-montreux-jazz-festival-brooklyn-high.md
 inFeed: true
 hasPage: false
 inNav: false
