@@ -1,34 +1,39 @@
-typography_spectrum: 0.049294239142909646
+typography_spectrum: 0.3180122465226283
 color:
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
     - '#FFFFFF'
-    - '#FF9800'
-  brandStrength: 0.39989672554656863
-  lightness: 0.01659549679607153
-  saturation: 0.16107737109996378
-  rhythmicContrast: 0.12872153567150235
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.5932936312710073
+  lightness: 0.6953344076582332
+  saturation: 0.2796167923564479
+  rhythmicContrast: 0.2926856322385518
+github: true
 opengraph:
   image: null
   type: null
   appId: null
-layout_spectrum: 0.5834053186699748
+layout_spectrum: 0.6026656498574642
 analytics:
-  google: null
+  google: UA-87765996-1
   facebook: null
   twitter: null
 author:
-  name: ''
-  email: ''
-  url: ''
+  name: Pierre Sottas
+  email: pierre.sottas@cheesecom.com
+  url: www.pierresottas.net
 name: Pierre Sottas
+url: 'http://www.pierresottas.net'
 cta:
   domain: null
   bucket: null
   version: null
 navigation:
+  - name: Music
+    id: a154b4e4-a81a-4603-9ac7-7ff189c361be
+    type: content
   - name: Projects
     id: 8bcf99d2-c978-4012-aca8-0112cf846f60
     type: content
@@ -41,5 +46,6 @@ navigation:
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ca13d0d-623f-49ac-b938-94efed1aa0ae.jpg
 title: Pierre Sottas
+content: []
 description: Bass // Acoustic Bass // Arranger // Producer
 purpose: []
