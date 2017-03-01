@@ -1,11 +1,12 @@
 ---
-datePublished: '2017-03-01T14:04:29.772Z'
+datePublished: '2017-03-01T14:04:52.312Z'
 sourcePath: _posts/2016-07-11-musical-extracts.md
 inFeed: true
 hasPage: true
-author: []
+author:
+  - name: Marc Ducrest
 via: {}
-dateModified: '2017-03-01T14:04:29.292Z'
+dateModified: '2017-03-01T14:04:51.869Z'
 title: Musical extracts
 id: a154b4e4-a81a-4603-9ac7-7ff189c361be
 publisher: {}
