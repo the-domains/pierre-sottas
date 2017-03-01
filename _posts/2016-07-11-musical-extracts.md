@@ -1,30 +1,28 @@
 ---
-id: a154b4e4-a81a-4603-9ac7-7ff189c361be
-dateModified: '2016-08-26T12:43:19.107Z'
+datePublished: '2017-03-01T14:04:29.772Z'
+sourcePath: _posts/2016-07-11-musical-extracts.md
+inFeed: true
+hasPage: true
+author: []
+via: {}
+dateModified: '2017-03-01T14:04:29.292Z'
 title: Musical extracts
-datePublished: '2016-08-26T12:43:19.501Z'
-author:
-  - name: Pierre Sottas
-    url: 'http://soundcloud.com/pichto'
-    avatar: {}
-isBasedOnUrl: 'https://soundcloud.com/pichto/sets/pierre-sottas-presentation'
+id: a154b4e4-a81a-4603-9ac7-7ff189c361be
+publisher: {}
 description: >-
   Here are some tracks from my past and present projects ranging from jazz to
   r&b going through progressive metal.
-publisher:
-  url: 'http://soundcloud.com'
-  name: SoundCloud
-  favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
-  domain: soundcloud.com
-via: {}
 starred: true
-sourcePath: _posts/2016-07-11-musical-extracts.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+datePublishedOriginal: '2016-11-22T06:39:33.685Z'
+url: musical-extracts/index.html
+_type: Article
 
 ---
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttp%253A%252F%252Fapi.soundcloud.com%252Fplaylists%252F214890660%26show_artwork%3Dtrue&amp;url=https%3A%2F%2Fsoundcloud.com%2Fpichto%2Fsets%2Fpierre-sottas-presentation&amp;image=http%3A%2F%2Fi1.sndcdn.com%2Fartworks-000157755314-qp9l4k-t500x500.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
+# Musical extracts
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd07979b-2bc9-4882-9ec5-fe4fc2ec8d6a.jpg)
 
 Here are some tracks from my past and present projects ranging from jazz to r&b going through progressive metal.
+
+---
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJxt0MFuwjAMgOFXqSLBkQRG0QaEaU9SZYlLIqV1ZDuqePuV9gLSrp9-WbavqSc3QDOlINGqvTEb1URI9yhWHVujGvaEOafxbtWIqlnyX6QAtAKTtyqKFD5rPe0Y6xh8xhp2HgddsnsA6e9K2S7R5uNHa1fSf2FOLKwP--PnlzmdzNYN5eIxI9m-b1uzgquC3bO2vcsMi8UUoCPITiC8MEecunn4AKOwFaovXHk-4J0ICs4LrAPU7arX39z-AODpaFk" height="460" style=""></iframe>
