@@ -3,16 +3,16 @@ inFeed: true
 description: >-
   Frédéric Chauvigné, accordéon, Richard Pizzorno, keybord, Pierre Sottas, bass,
   Fred Bintner, drums
-dateModified: '2017-09-14T19:02:57.092Z'
-datePublished: '2017-09-14T19:02:57.895Z'
+dateModified: '2017-10-10T11:02:24.347Z'
+datePublished: '2017-10-10T11:02:24.670Z'
 title: Frédéric Chauvigné 4tet
 author: []
 publisher: {}
 via: {}
 isBasedOnUrl: 'https://youtu.be/21GDjzPaXsI'
+sourcePath: _posts/2017-09-14-frederic-chauvigne-4tet.md
 starred: false
 datePublishedOriginal: '2017-09-14T19:02:57.895Z'
-sourcePath: _posts/2017-09-14-frederic-chauvigne-4tet.md
 _type: MediaObject
 
 ---
